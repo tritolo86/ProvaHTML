@@ -4,4 +4,4 @@
 
 ## Ora sto modificando su GITHUB
 
-## Eseguo una modifica sul branch main da locale
+## Decido di fare in maniera diversa
